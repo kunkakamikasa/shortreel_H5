@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{f as s,g as a,n as t}from"./vendor-58c6cfac.js";const r={},_={class:"favorites-page"};function n(c,e){return s(),a("div",_,[...e[0]||(e[0]=[t("h1",null,"My Favorites",-1),t("p",null,"Favorites page content will be here",-1)])])}const p=o(r,[["render",n],["__scopeId","data-v-39958835"]]);export{p as default};
