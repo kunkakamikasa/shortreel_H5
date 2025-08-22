@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";import{f as t,g as s,n as o}from"./vendor-58c6cfac.js";const _={},n={class:"profile-page"};function l(a,e){return t(),s("div",n,[...e[0]||(e[0]=[o("h1",null,"User Profile",-1),o("p",null,"Profile page content will be here",-1)])])}const i=r(_,[["render",l],["__scopeId","data-v-f9b5ee58"]]);export{i as default};

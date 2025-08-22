@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{f as s,g as r,n as t}from"./vendor-58c6cfac.js";const _={},n={class:"history-page"};function c(a,e){return s(),r("div",n,[...e[0]||(e[0]=[t("h1",null,"Watch History",-1),t("p",null,"History page content will be here",-1)])])}const p=o(_,[["render",c],["__scopeId","data-v-ebc72823"]]);export{p as default};
